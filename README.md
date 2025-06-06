@@ -11,8 +11,6 @@ Ini adalah aplikasi To-Do List sederhana yang dibuat untuk latihan dasar fronten
 - Checklist tugas selesai
 - Simpan otomatis ke localStorage
 
-## 📸 Preview:
-![preview](./screenshot.png)
 
 ## 🚀 Cara Menjalankan:
 1. Clone repo ini
